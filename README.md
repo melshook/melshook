@@ -1,4 +1,18 @@
-### Hi there 👋
+### Hi there 👋, I'm Melanie Shook!
+
+---
+
+🧰 Toolbox
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50 height="50" alt="HTML5 Logo"/>                                                                                                                                                  
+                                                                                                                                                   
+  
+
+---
+
+
+
 
 <!--
 **melshook/melshook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +28,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
