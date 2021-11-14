@@ -1,9 +1,10 @@
 ### Hi there 👋, I'm Melanie Shook!
 
 ---
-
+<p align="middle">
 🧰 Toolbox
-<p float="left">
+ </p>
+<p float="left" align="middle">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS Logo" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5 Logo"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="javascript logo"/>
